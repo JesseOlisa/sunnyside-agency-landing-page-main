@@ -404,8 +404,7 @@ footer a:hover{
         text-align: center;  
         background-color: hsl(0, 0%, 100%);
         padding: 30px 75px;
-        border-right: 2px solid hsl(0, 0%, 100%);
-        
+        border-right: 2px solid hsl(0, 0%, 100%);  
     }
 
     .mobile-nav li {
